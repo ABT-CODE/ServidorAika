@@ -1,0 +1,56 @@
+Foi adicionado um item id: 12073 quantidade: 1 Player admin Na data 23/12/2025 11:21:16
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 12379 quantidade: 1 Player admin Na data 23/12/2025 11:21:27
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 12409 quantidade: 1 Player admin Na data 23/12/2025 11:21:35
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 12439 quantidade: 1 Player admin Na data 23/12/2025 11:21:36
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 12469 quantidade: 1 Player admin Na data 23/12/2025 11:21:40
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 8111 quantidade: 1000 Player admin Na data 23/12/2025 11:57:26
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19121 quantidade: 1 Player admin Na data 23/12/2025 13:04:35
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19331 quantidade: 1 Player admin Na data 23/12/2025 13:04:37
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19361 quantidade: 1 Player admin Na data 23/12/2025 13:04:39
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19391 quantidade: 1 Player admin Na data 23/12/2025 13:04:41
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19421 quantidade: 1 Player admin Na data 23/12/2025 13:04:42
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 24884 quantidade: 1 Player admin Na data 23/12/2025 13:05:56
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19121 quantidade: 250 Player admin Na data 23/12/2025 13:06:36
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19175 quantidade: 250 Player admin Na data 23/12/2025 14:35:37
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19565 quantidade: 1 Player admin Na data 23/12/2025 14:35:50
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19565 quantidade: 250 Player admin Na data 23/12/2025 14:35:57
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19595 quantidade: 250 Player admin Na data 23/12/2025 14:36:03
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19625 quantidade: 250 Player admin Na data 23/12/2025 14:36:06
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19655 quantidade: 250 Player admin Na data 23/12/2025 14:36:08
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 24889 quantidade: 1 Player admin Na data 23/12/2025 14:36:41
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 24884 quantidade: 1 Player admin Na data 23/12/2025 14:36:54
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 8007 quantidade: 1 Player admin Na data 23/12/2025 15:52:14
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19181 quantidade: 250 Player admin Na data 23/12/2025 15:53:32
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19571 quantidade: 250 Player admin Na data 23/12/2025 15:53:34
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19601 quantidade: 250 Player admin Na data 23/12/2025 15:53:36
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19631 quantidade: 250 Player admin Na data 23/12/2025 15:53:38
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 19661 quantidade: 250 Player admin Na data 23/12/2025 15:53:40
+-------------------------------------------------------------------------------
+Foi adicionado um item id: 8009 quantidade: 1 Player admin Na data 23/12/2025 20:59:42
+-------------------------------------------------------------------------------
