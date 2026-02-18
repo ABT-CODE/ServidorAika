@@ -1,0 +1,42 @@
+# ========================================
+# WHITELIST DE ITENS CONSUMÍVEIS
+# ItemType: Tipo do item no ItemList
+# Index: ID específico do item
+# ========================================
+
+[ItemTypes]
+700  # ITEM_TYPE_HP_POTION
+701  # ITEM_TYPE_HPMP_LAGRIMAS
+702  # ITEM_TYPE_HPMP_POTION / ITEM_TYPE_MP_POTION / Buff Potions
+208  # Pergaminho do Portal
+202  # Pergaminho Regenchain
+204  # Pergaminho Cidade Salva
+206  # Pergaminho Dimensional
+301  # Joquempo
+90   # Marionete
+230  # Digestivo Pran
+26   # ITEM_TYPE_BAU
+27   # ITEM_TYPE_STORAGE_OPEN
+28   # ITEM_TYPE_SHOP_OPEN
+25   # ITEM_TYPE_RECIPE
+
+[ItemIndexes]
+4438   # Símbolo de Cidadania
+8073   # Voltar Lakia
+8080   # Ir para Leopold
+8250   # Auxílio Poderoso 15 dias
+8051   # Auxílio Poderoso 30 dias
+8192   # Reset Status Points
+16021  # Spawn Boss Ticket
+25185  # Caixa de App Aleatória
+8105   # Sopa de Batata Doce (Cute)
+8106   # Perfait de Cereja (Sexy)
+8107   # Salada de Caviar (Smart)
+8108   # Espetinho de Camarão (Energetic)
+8109   # Churrasco de York (Tough)
+8110   # Peixe Duvidoso (Corrupt)
+16004  # Baú Cristal Sagrado [Pran]
+16003  # Baú Cristal Sagrado [Montaria]
+16000  # Baú Cristal Sagrado [Arma]
+16001  # Baú Cristal Sagrado [Armadura]
+16002  # Baú Cristal Sagrado [Acessório]
